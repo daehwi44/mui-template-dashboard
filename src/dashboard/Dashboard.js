@@ -123,7 +123,7 @@ function DashboardContent() {
               noWrap
               sx={{ flexGrow: 1 }}
             >
-              だっしゅぼーど
+              だっしゅぼーど!
             </Typography>
             <IconButton color="inherit">
               <Badge badgeContent={1} color="secondary">
