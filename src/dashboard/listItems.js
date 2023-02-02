@@ -20,7 +20,7 @@ export const mainListItems = (
     </ListItemButton>
     <ListItemButton>
       <ListItemIcon>
-        <ShoppingCartIcon />
+        <BarChartIcon />
       </ListItemIcon>
       <ListItemText primary="投稿一覧" />
     </ListItemButton>
@@ -32,9 +32,9 @@ export const mainListItems = (
     </ListItemButton>
     <ListItemButton>
       <ListItemIcon>
-        <BarChartIcon />
+        <PeopleIcon />
       </ListItemIcon>
-      <ListItemText primary="コミュニティメンバー一覧" />
+      <ListItemText primary="メンバー一覧" />
     </ListItemButton>
     <ListItemButton>
       <ListItemIcon>
